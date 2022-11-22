@@ -1,0 +1,11 @@
+{
+  "name": "Dhaka",
+  "description": "This is our dhaka outlet, Here you can get all types of products",
+  "status": "active",
+  "manager": [
+    {
+      "name": "Bablu Mia",
+      "contactNumber": "204829842"
+    }
+  ]
+}

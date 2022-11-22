@@ -1,0 +1,17 @@
+{
+  "name": "Ali Hossain",
+  "email": "ali@gmail.com",
+  "brand": {
+    "name": "Aci",
+    "id": "6370e5cc23f81404ec331c0e"
+  },
+  "contactNumber": ["02902332", "26826822"],
+  "emergencyContactNumber": "4244242424",
+  "tradeLicenceNumber": "3131313131313",
+  "presentAddress": "TA-23/24 Dhaka",
+  "permanentAddress": "Barisal, Bangladesh",
+  "location": "Dhaka",
+  "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "nationalIdImageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+  "status": "active"
+}

@@ -1,0 +1,26 @@
+{
+  "productId": "6371cf2a9e184c2160cfb68c",
+  "name": "pran chinigura aromatic rice - 5kg bag",
+  "description": "Pran Chinigura Aromatic Rice (Polau). Fresh and Clean, Vacuum Packed. Pran Chinigura Rice can be use in Biriyani, Polau, Firni, Kheer, Khichuri.",
+  "unit": "bag",
+  "category": "Rice",
+  "imageUrls": [
+    "https://i.ibb.co/WnFSs9Y/unnamed.webp",
+    "https://i.ibb.co/WnFSs9Y/unnamed.webp"
+  ],
+  "price": 345,
+  "status": "in-stock",
+  "brand": {
+    "name": "Fresh",
+    "id": "6370e5cc23f81404ec331c0f"
+  },
+  "store": {
+    "name": "Dhaka store",
+    "id": "6371c6ef65af4905d4ccfea3"
+  },
+  "suppliedBy": {
+    "name": "abul kashem",
+    "id": "6371e293fd5637202c03ee2e"
+  },
+  "sellCount": 20
+}
